@@ -12,6 +12,7 @@ public class MsaApiGatewayApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MsaApiGatewayApplication.class, args);
+
 	}
 
 }
