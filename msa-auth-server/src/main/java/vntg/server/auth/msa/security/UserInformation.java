@@ -10,8 +10,6 @@ import lombok.Data;
 
 /**
  * spring security user detail 정보
- * @author taes
- *
  */
 @Data
 public class UserInformation implements UserDetails {
