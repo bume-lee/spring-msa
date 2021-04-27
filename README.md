@@ -7,7 +7,7 @@ boilerplate code
 - 인증 서버	msa-auth-server 8095
 - 유저 api	msa-user-api	8000
 
-![](imgs/archi.png)
+![](imgs/spring_msa.png)
 
 참조
 https://taes-k.github.io/2019/06/16/spring-msa-3/
